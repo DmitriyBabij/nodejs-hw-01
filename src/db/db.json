@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "21b40fa3-bfec-4bdb-aa91-051bd7b38b99",
+    "name": "Garrett Fritsch",
+    "phone": "1-398-535-5631 x483",
+    "email": "Vallie6@hotmail.com",
+    "job": "Lead Tactics Engineer"
+  },
+  {
+    "id": "44e87703-67c3-4238-af42-0277f4427185",
+    "name": "Agnes D'Amore",
+    "phone": "1-570-605-6237 x5349",
+    "email": "Bell_Ward14@hotmail.com",
+    "job": "Product Intranet Representative"
+  },
+  {
+    "id": "6a3c2668-ac60-4bbe-9599-47027ead54d1",
+    "name": "Jeffery Upton",
+    "phone": "(955) 586-1999 x2680",
+    "email": "Janick_Lockman@hotmail.com",
+    "job": "Customer Applications Facilitator"
+  },
+  {
+    "id": "67afb21e-11c8-4e37-b122-c8482d59ab62",
+    "name": "Sonja Marvin",
+    "phone": "419.472.6510 x735",
+    "email": "Austyn71@yahoo.com",
+    "job": "Internal Research Strategist"
+  },
+  {
+    "id": "6ac69f2e-2cf8-4015-9cf0-db136e2d6e1d",
+    "name": "Jaime Labadie",
+    "phone": "611-417-9335 x583",
+    "email": "Maddison_Frami@yahoo.com",
+    "job": "Human Applications Executive"
+  },
+  {
+    "id": "47d018a3-8b1c-42a9-b938-4d048fcc54e7",
+    "name": "Johnnie Sipes",
+    "phone": "(258) 371-2854",
+    "email": "Arden.Gibson58@hotmail.com",
+    "job": "Future Metrics Executive"
+  }
+]
